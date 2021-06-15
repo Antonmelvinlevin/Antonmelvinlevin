@@ -1,5 +1,5 @@
 - 👋 Hi, Anton Levin
-- 👀 I’m working as a business analyst in the Credit function
+- I’m working as a business analyst in the Credit function
 
 <!---
 Antonmelvinlevin/Antonmelvinlevin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
